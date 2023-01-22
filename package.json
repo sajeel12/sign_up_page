@@ -2,7 +2,7 @@
   "name": "faizan2",
   "version": "0.1.0",
   "homepage": "https://sajeel12.github.io/sign_up_page",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
